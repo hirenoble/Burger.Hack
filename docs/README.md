@@ -3,7 +3,7 @@
 ## Instructions
 
 ### Step 1
-You will receive couple of emails from Adobe Systems Incorporated for Adobe Experience Cloud Access.
+You will receive couple of emails from Adobe for Adobe Experience Cloud Access.
 
 ### Step 2
 Open your browser and go to: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)
