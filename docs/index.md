@@ -13,11 +13,10 @@ Follow link in email and setup your Adobe ID.
 Open your web browser and go to: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)
 
 ## Step 4
-Figure out API endpoints, authentication, documentation and request parameters and hit any one API of each of the below products:
+Figure out API endpoints, authentication, documentation and request parameters and hit any one API of each of the below products and get a successful 200 OK response:
 1.  Adobe Stock
 2.  Adobe Analytics
-3.  Adobe Target
-4.  Adobe Launch
+3.  Adobe Launch
 
 
 ## Step 5
