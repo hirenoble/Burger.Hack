@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# McDonald's Burger Hack 2018
-
 ## Adobe
 Adobe Experience cloud brings together all of your marketing tech in a single place, so you can do everything from managing your content and delivering personalized experiences across channels to measuring success of the campaigns/experiences. One integrated approach for one seamless experience. Learn more about Adobe Experience Cloud.
 
