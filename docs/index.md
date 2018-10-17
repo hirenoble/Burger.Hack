@@ -33,14 +33,13 @@ Open your web browser and go to: [https://experiencecloud.adobe.com](https://exp
 
 
 ## Adobe Experience Manager Access
-Author - https://adobeiotrial-author.adobedemo.com
+Author - [https://adobeiotrial-author.adobedemo.com](https://adobeiotrial-author.adobedemo.com)
 
-Credentials: admin/LY5u8Ba7
+Credentials: **admin/LY5u8Ba7**
 
-Publish - https://adobeiotrial-publish.adobedemo.com
+Publish - [https://adobeiotrial-publish.adobedemo.com](https://adobeiotrial-publish.adobedemo.com)
 
-Credentials: admin/LY5u8Ba7
-
+Credentials: **admin/LY5u8Ba7**
 
 
 
