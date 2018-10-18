@@ -5,8 +5,7 @@ layout: default
 Adobe Experience cloud brings together all of your marketing tech in a single place, so you can do everything from managing your content and delivering personalized experiences across channels to measuring success of the campaigns/experiences. One integrated approach for one seamless experience. Learn more about Adobe Experience Cloud.
 
 ## How to access this tool:
-Request access to the [Adobe Experience Cloud](https://miccapgemini.typeform.com/to/YtGaML)
-Access credentials will be sent out on October 17.
+Send an e-mail to hiren.shah@adobe.com with your e-mail ID and team name to request access to the Adobe Experience Cloud. 
 
 ## Adobe Challenge and Prize:
 The Adobe Tech Challenge evaluates each team that uses Adobe technology based on the following criteria:
